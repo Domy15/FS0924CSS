@@ -37,6 +37,7 @@ h1,
 
 .video {
     color: #999999;
+
 }
 
 .p1 {
@@ -54,4 +55,8 @@ a:link {
 .linea {
     padding-left: 4px;
     border-left: 1px solid yellow;
+}
+
+video{
+    border-radius: 2%;
 }
